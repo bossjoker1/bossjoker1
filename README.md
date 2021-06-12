@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bossjoker1
 - 👀 I’m interested in playing basketball and watching bilibili
 - 🌱 I’m currently learning Golang , apue and Computer Internet
-- 📫 How to reach me (qq:1397157763 & [My blog](bosshhh.top)
+- 📫 How to reach me (qq:1397157763 & [My blog](https://bosshhh.top)
 
 <!---
 bossjoker1/bossjoker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
