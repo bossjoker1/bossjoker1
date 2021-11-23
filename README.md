@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Golang , apue and Computer Internet
 - 📫 How to reach me (qq:1397157763 & [My blog](https://bosshhh.top)
 
-[![Anurag's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/anuraghazra/github-readme-stats)
+[![bossjoker1's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/bossjoker1/github-readme-stats)
 
 <!---
 bossjoker1/bossjoker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
