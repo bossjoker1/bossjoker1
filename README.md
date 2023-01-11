@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bossjoker1
-- 👀 I’m interested in playing badminton and watching bilibili
+- 👀 I’m interested in playing ​:badminton: and watching bilibili
 - 🌱 I’m currently learning web3, software analysis and rust
 - 📫 How to reach me (qq:1397157763 & [My blog](https://bossjoker1.github.io/)
 
