@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bossjoker1
-- 👀 I’m interested in playing basketball and watching bilibili
-- 🌱 I’m currently learning Golang , apue and Computer Internet
+- 👀 I’m interested in playing badminton and watching bilibili
+- 🌱 I’m currently learning web3, software analysis and rust
 - 📫 How to reach me (qq:1397157763 & [My blog](https://bossjoker1.github.io/)
 
 ![bossjoker1's github stats](https://github-readme-stats.vercel.app/api?username=bossjoker1&show_icons=true&theme=radical) 
